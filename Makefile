@@ -1,5 +1,6 @@
 .PHONY: run
 
 run:
-	chromium-browser --no-sandbox https://discordapp.com
+	chromium-browser --no-sandbox https://google.com
+
  
